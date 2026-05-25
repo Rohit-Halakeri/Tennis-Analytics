@@ -1,0 +1,46 @@
+elo_diff_overall
+elo_diff_surface
+w_elo_overall
+l_elo_overall
+w_elo_surface
+l_elo_surface
+rank_diff
+w_rank
+l_rank
+w_age
+l_age
+age_diff
+w_form_overall
+l_form_overall
+w_form_surface
+l_form_surface
+form_diff_overall
+form_diff_surface
+w_matches_played
+l_matches_played
+w_matches_on_surface
+l_matches_on_surface
+w_avg_1stServe_pct
+l_avg_1stServe_pct
+w_avg_1stWon_pct
+l_avg_1stWon_pct
+w_avg_2ndWon_pct
+l_avg_2ndWon_pct
+w_avg_bpSave_pct
+l_avg_bpSave_pct
+w_avg_ace_rate
+l_avg_ace_rate
+h2h_wins_winner
+h2h_wins_loser
+h2h_total
+h2h_winrate_winner
+best_of
+surface_Clay
+surface_Grass
+surface_Hard
+surface_Carpet
+level_Grand Slam
+level_Masters 1000
+level_ATP 500
+level_ATP 250
+level_Finals

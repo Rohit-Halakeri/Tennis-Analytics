@@ -1,0 +1,35 @@
+Original rows : 112,056
+Removed 3,483 retirements/walkovers
+Dropped 0 rows missing player identity
+Final rows     : 108,573  (96.9% kept)
+Columns        : 59
+Date range     : 1990-01-01 → 2024-12-18
+Surfaces       : {'Hard': 54191, 'Clay': 36088, 'Grass': 10519, 'Carpet': 7724, 'Unknown': 51}
+Missing rate   :
+winner_ht              2.1
+winner_age             0.0
+winner_rank            1.1
+winner_rank_points     2.2
+loser_ht               4.2
+loser_age              0.0
+loser_rank             2.4
+loser_rank_points      3.5
+minutes               14.8
+w_ace                 12.1
+w_df                  12.1
+w_svpt                12.1
+w_1stIn               12.1
+w_1stWon              12.1
+w_2ndWon              12.1
+w_SvGms               12.1
+w_bpSaved             12.1
+w_bpFaced             12.1
+l_ace                 12.1
+l_df                  12.1
+l_svpt                12.1
+l_1stIn               12.1
+l_1stWon              12.1
+l_2ndWon              12.1
+l_SvGms               12.1
+l_bpSaved             12.1
+l_bpFaced             12.1

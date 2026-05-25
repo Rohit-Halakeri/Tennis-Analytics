@@ -1,0 +1,39 @@
+==================================================
+  PLAYER PROFILE: Novak Djokovic
+==================================================
+  Career        : 2004-04-09 → 2024-10-02
+  Total matches : 1303
+  Win / Loss    : 1095 / 208
+  Win rate      : 84.0%
+  GS Titles     : 24
+
+  Elo Ratings:
+    Overall   : 2017
+    Hard      : 1999
+    Clay      : 1896
+    Grass     : 1811
+    Carpet    : 1551
+
+  Surface Record:
+    Hard    : 690W / 122L  (85.0%)
+    Clay    : 278W / 64L  (81.3%)
+    Grass   : 119W / 18L  (86.9%)
+    Carpet  : 8W / 4L  (66.7%)
+
+  Serve Profile:
+    first_serve_pct       : 64.4%
+    first_won_pct         : 71.6%
+    second_won_pct        : 53.4%
+    bp_save_pct           : 59.1%
+    ace_rate              : 8.0%
+    df_rate               : 2.8%
+
+  Strengths:
+    ✓ Dominant clay court player
+    ✓ Dominant hard court player
+    ✓ All-time elite win rate (>75%)
+    ✓ All-time great Elo rating (>1900)
+
+  Weaknesses:
+
+==================================================

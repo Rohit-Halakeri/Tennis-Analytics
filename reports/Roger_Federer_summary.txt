@@ -1,0 +1,39 @@
+==================================================
+  PLAYER PROFILE: Roger Federer
+==================================================
+  Career        : 1998-07-06 → 2021-06-28
+  Total matches : 1505
+  Win / Loss    : 1230 / 275
+  Win rate      : 81.7%
+  GS Titles     : 20
+
+  Elo Ratings:
+    Overall   : 1994
+    Hard      : 1970
+    Clay      : 1822
+    Grass     : 1829
+    Carpet    : 1651
+
+  Surface Record:
+    Hard    : 769W / 156L  (83.1%)
+    Clay    : 222W / 71L  (75.8%)
+    Grass   : 189W / 29L  (86.7%)
+    Carpet  : 50W / 19L  (72.5%)
+
+  Serve Profile:
+    first_serve_pct       : 61.4%
+    first_won_pct         : 75.0%
+    second_won_pct        : 54.2%
+    bp_save_pct           : 61.9%
+    ace_rate              : 10.8%
+    df_rate               : 2.2%
+
+  Strengths:
+    ✓ Dominant clay court player
+    ✓ Dominant hard court player
+    ✓ All-time elite win rate (>75%)
+    ✓ All-time great Elo rating (>1900)
+
+  Weaknesses:
+
+==================================================

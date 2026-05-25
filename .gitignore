@@ -1,0 +1,96 @@
+# ─────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ─────────────────────────────────────────────
+# Virtual Environment
+# ─────────────────────────────────────────────
+venv/
+env/
+ENV/
+.venv/
+
+# ─────────────────────────────────────────────
+# Data files (too large for GitHub)
+# ─────────────────────────────────────────────
+data/raw/
+data/*.parquet
+data/*.csv
+data/*.db
+
+# Keep the pipeline report (small text file)
+!data/pipeline_report.txt
+
+# ─────────────────────────────────────────────
+# Models (regeneratable, can be large)
+# ─────────────────────────────────────────────
+models/*.json
+models/*.pkl
+models/*.bin
+
+# Keep feature names (tiny text file)
+!models/feature_names.txt
+
+# ─────────────────────────────────────────────
+# Reports / generated images
+# ─────────────────────────────────────────────
+# Comment this out if you WANT to commit profile PNGs
+# reports/*.png
+
+# ─────────────────────────────────────────────
+# Jupyter Notebooks checkpoints
+# ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─────────────────────────────────────────────
+# OS files
+# ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─────────────────────────────────────────────
+# IDE / Editor
+# ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─────────────────────────────────────────────
+# Environment variables
+# ─────────────────────────────────────────────
+.env
+.env.local
+*.env
+
+# ─────────────────────────────────────────────
+# Streamlit
+# ─────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ─────────────────────────────────────────────
+# Misc
+# ─────────────────────────────────────────────
+*.log
+*.tmp
+check.py

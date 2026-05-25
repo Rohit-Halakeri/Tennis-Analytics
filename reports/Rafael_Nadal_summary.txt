@@ -1,0 +1,39 @@
+==================================================
+  PLAYER PROFILE: Rafael Nadal
+==================================================
+  Career        : 2002-04-29 → 2024-11-19
+  Total matches : 1276
+  Win / Loss    : 1057 / 219
+  Win rate      : 82.8%
+  GS Titles     : 22
+
+  Elo Ratings:
+    Overall   : 1922
+    Hard      : 1854
+    Clay      : 1967
+    Grass     : 1700
+    Carpet    : 1456
+
+  Surface Record:
+    Hard    : 504W / 143L  (77.9%)
+    Clay    : 476W / 51L  (90.3%)
+    Grass   : 75W / 19L  (79.8%)
+    Carpet  : 2W / 6L  (25.0%)
+
+  Serve Profile:
+    first_serve_pct       : 67.8%
+    first_won_pct         : 69.5%
+    second_won_pct        : 54.0%
+    bp_save_pct           : 59.4%
+    ace_rate              : 4.6%
+    df_rate               : 2.2%
+
+  Strengths:
+    ✓ Dominant clay court player
+    ✓ Dominant hard court player
+    ✓ All-time elite win rate (>75%)
+    ✓ All-time great Elo rating (>1900)
+
+  Weaknesses:
+
+==================================================

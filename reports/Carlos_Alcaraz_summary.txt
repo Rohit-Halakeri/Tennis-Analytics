@@ -1,0 +1,38 @@
+==================================================
+  PLAYER PROFILE: Carlos Alcaraz
+==================================================
+  Career        : 2020-02-17 → 2024-11-19
+  Total matches : 256
+  Win / Loss    : 203 / 53
+  Win rate      : 79.3%
+  GS Titles     : 4
+
+  Elo Ratings:
+    Overall   : 1906
+    Hard      : 1775
+    Clay      : 1762
+    Grass     : 1656
+    Carpet    : 1500
+
+  Surface Record:
+    Hard    : 98W / 33L  (74.8%)
+    Clay    : 81W / 17L  (82.7%)
+    Grass   : 24W / 3L  (88.9%)
+
+  Serve Profile:
+    first_serve_pct       : 65.0%
+    first_won_pct         : 69.9%
+    second_won_pct        : 53.1%
+    bp_save_pct           : 58.3%
+    ace_rate              : 5.5%
+    df_rate               : 2.7%
+
+  Strengths:
+    ✓ Dominant clay court player
+    ✓ Dominant hard court player
+    ✓ All-time elite win rate (>75%)
+    ✓ All-time great Elo rating (>1900)
+
+  Weaknesses:
+
+==================================================
